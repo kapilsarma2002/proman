@@ -1,7 +1,5 @@
 # proman
-I'll provide a comprehensive breakdown of the Enterprise Project Management Platform and Healthcare Telemedicine Application.
-
-1. Enterprise Project Management Platform
+Enterprise Project Management Platform
 
 Detailed Architecture:
 Frontend:
